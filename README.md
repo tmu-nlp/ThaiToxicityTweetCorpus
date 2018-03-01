@@ -14,5 +14,8 @@ Labels are following items:
 These keywords are the 44 keywords that we used to collect the tweets via Twitter Search API.
 Each row contains toxic keyword and its meaning as the example:```Thai toxic word[tab]original meaning/toxic meaning```.
 
+## Publication
+In Proceedings of the Second Workshop on Text Analytics for Cybersecurity and Online Safety 2018 (to appear).
+
 ## License
 This project is licensed under the terms of the [Creative Commons license](https://creativecommons.org/licenses/by-nc/4.0/).
