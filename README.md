@@ -17,5 +17,8 @@ Each row contains toxic keyword and its meaning as the example:```Thai toxic wor
 ## Publication
 In Proceedings of the Second Workshop on Text Analytics for Cybersecurity and Online Safety 2018 (to appear).
 
+## Demo application
+http://cl.sd.tmu.ac.jp/thaitoxicity/
+
 ## License
 This project is licensed under the terms of the [Creative Commons license](https://creativecommons.org/licenses/by-nc/4.0/).
